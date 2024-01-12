@@ -9,3 +9,5 @@ Two energy and meteorological datasets, covering 2021 and 2022, aid model traini
 Participants can submit three files daily, with one chosen for the final ranking. The CSV submission must have 2256 records, matching the test dataset, with "RowId" and "Result" columns.
 
 Notably, the XGBoost classifier and Random Forest proved effective, showcasing their prowess in optimizing energy efficiency, reducing emissions, and promoting sustainability.
+
+https://www.kaggle.com/competitions/daasbstp2023
